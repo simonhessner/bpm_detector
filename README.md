@@ -1,0 +1,1 @@
+Some code snippets to analyze wav files. The final goal is to detect BPM of tracks and to visualize tracks in a spectogram
